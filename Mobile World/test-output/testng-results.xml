@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-20T11:54:46 IST" name="Suite" finished-at="2022-09-20T11:55:40 IST" duration-ms="54612">
+    <groups>
+    </groups>
+    <test started-at="2022-09-20T11:54:46 IST" name="Test" finished-at="2022-09-20T11:55:40 IST" duration-ms="54612">
+      <class name="mobileworld.signup">
+        <test-method signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mobileworld.signup@5fbdfdcf]" started-at="2022-09-20T11:54:46 IST" name="setup" data-provider="getData" finished-at="2022-09-20T11:54:52 IST" duration-ms="6891" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pavithra]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[shan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3/12/2000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[0123456789]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Hi everyone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mobileworld.signup@5fbdfdcf]" started-at="2022-09-20T11:54:52 IST" name="setup" data-provider="getData" finished-at="2022-09-20T11:54:58 IST" duration-ms="5472" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[pa]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@gma.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123234567]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3/12/20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[01289]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hi ]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="setup(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mobileworld.signup@5fbdfdcf]" started-at="2022-09-20T11:54:58 IST" name="setup" data-provider="getData" finished-at="2022-09-20T11:55:04 IST" duration-ms="5847" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abcdefghijklmnopqrstuvwx]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sh]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abc@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abc123234567]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3/12/20000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[hi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- mobileworld.signup -->
+      <class name="mobileworld.Contacttest">
+        <test-method signature="contactus()[pri:0, instance:mobileworld.Contacttest@a530d0a]" started-at="2022-09-20T11:55:36 IST" name="contactus" finished-at="2022-09-20T11:55:40 IST" duration-ms="3756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+      </class> <!-- mobileworld.Contacttest -->
+      <class name="mobileworld.Signtest">
+        <test-method signature="signin()[pri:0, instance:mobileworld.Signtest@2f217633]" started-at="2022-09-20T11:55:33 IST" name="signin" finished-at="2022-09-20T11:55:36 IST" duration-ms="3626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+      </class> <!-- mobileworld.Signtest -->
+      <class name="mobileworld.Login">
+        <test-method signature="setup()[pri:0, instance:mobileworld.Login@611889f4]" started-at="2022-09-20T11:55:04 IST" name="setup" finished-at="2022-09-20T11:55:16 IST" duration-ms="12557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- mobileworld.Login -->
+      <class name="mobileworld.SignUptest">
+        <test-method signature="signUp()[pri:0, instance:mobileworld.SignUptest@48f278eb]" started-at="2022-09-20T11:55:30 IST" name="signUp" finished-at="2022-09-20T11:55:33 IST" duration-ms="3226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+      </class> <!-- mobileworld.SignUptest -->
+      <class name="mobileworld.Contactus">
+        <test-method signature="setup()[pri:0, instance:mobileworld.Contactus@1da2cb77]" started-at="2022-09-20T11:55:16 IST" name="setup" finished-at="2022-09-20T11:55:30 IST" duration-ms="13164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+      </class> <!-- mobileworld.Contactus -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
